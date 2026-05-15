@@ -1,0 +1,2 @@
+# An-lise-de-A-es-Brasileiras-com-Python-B3-2023-2026-
+Projeto acadêmico desenvolvido para análise histórica de 5 ações da B3 (Petrobrás, Vale, Ambev, Itaú e Banco do Brasil). Utilizando as bibliotecas yfinance, pandas e matplotlib, o código coleta dados de janeiro de 2023 a maio de 2026 e calcula médias anuais, desvio-padrão, retornos semestrais e gera gráficos de evolução de preço para cada empresa.
